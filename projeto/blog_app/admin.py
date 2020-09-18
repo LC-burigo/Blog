@@ -3,4 +3,4 @@ from blog_app.models import Post, Comments
 
 
 admin.site.register(Post)
-admin.site.register(Comment)
+admin.site.register(Comments)

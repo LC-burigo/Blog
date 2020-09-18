@@ -1,6 +1,6 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from django.utils import timezone
-from django.views.generic import (TemplatesView, ListView, DetailView, CreateView, UpdateView, DeleteView)
+from django.views.generic import (TemplateView, ListView, DetailView, CreateView, UpdateView, DeleteView)
 from blog_app.models import Post, Comments
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
@@ -8,7 +8,7 @@ from blog_app.forms import PostForm, CommentForm
 from django.urls import reverse_lazy
 
 
-class AboutView(TemplatesView):
+class AboutView(TemplateView):
     template_name = 'about.html'
 
 
