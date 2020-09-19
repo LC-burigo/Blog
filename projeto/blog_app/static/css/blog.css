@@ -1,5 +1,5 @@
 .techfont{
-    font-Family: 'Russo One', sans-serif;
+    font-family: 'Russo One', sans-serif;
     font-size: 1.5em;
     margin-bottom: 10px;
 }
@@ -14,7 +14,7 @@
 .loader {
   filter:hue-rotate(0deg);
   color:linear-gradient(45deg,#0f8,#08f);
-  animation:hue 10000ms infinite linear;
+  animation:hue 50000ms infinite linear;
 }
 .postdate{
     text-align: center;
