@@ -16,3 +16,21 @@ Below, the image shows the base page, when you can find link to github and linke
 Here is the login page, with a form to fill
 
 <img src="Blog_2.png" width=600 border=blue>
+
+3. **page for user only**
+
+Here, a new page open just for superusers after login. \ 
+:heavy_exclamation_mark: Only superusers can write and publish a post or a comment
+
+<img src="Blog_3.png" width=600 border=blue>
+
+4. **New Post**
+
+By clicking in "New Post", a new page will open, with a form to fill. \
+:heavy_exclamation_mark: in the text field, when you select your text, few customize options will open.
+
+<img src="Blog_4.png" width=600 border=blue>
+
+
+
+
