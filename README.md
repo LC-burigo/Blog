@@ -38,6 +38,8 @@ After create the Post, you can do three things:
   * Update it by clicking in the :pencil2: icon
   * comment it by clicking in the Add Comment link :link:
   
+<img src="Blog_8.png" width=600 border=blue>
+  
 6. **Comment**
 
 By clicking in the Add Comment link, a new page with a comment form will open.
