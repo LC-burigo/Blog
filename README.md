@@ -44,6 +44,14 @@ By clicking in the Add Comment link, a new page with a comment form will open.
 
 <img src="Blog_5.png" width=600 border=blue>
 
+7. **List of Post**
 
+By clicking in the "My Blog", you can find a page with all the posts
+
+
+<img src="Blog_6.png" width=600 border=blue>
+
+
+:interrobang: ***This project, have only the basics, but is very important to know how use Generic Views, and others functionalities on Django. I hope to help you*** :relaxed:
 
 
