@@ -31,6 +31,19 @@ By clicking in "New Post", a new page will open, with a form to fill. \
 
 <img src="Blog_4.png" width=600 border=blue>
 
+5. **Save Post**
+
+After create the Post, you can do three things:
+  * delete it by clicking in the :x: icon
+  * Update it by clicking in the :pencil2: icon
+  * comment it by clicking in the Add Comment link :link:
+  
+6. **Comment**
+
+By clicking in the Add Comment link, a new page with a comment form will open.
+
+<img src="Blog_5.png" width=600 border=blue>
+
 
 
 
